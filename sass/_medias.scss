@@ -1,0 +1,11 @@
+@media (max-width: 576px) {
+    .footer__grid {
+      grid-template-columns: 1fr;
+    }
+  }
+  
+  @media (max-width: 450px) {
+    .form {
+      padding: 3.5em 1em;
+    }
+  }
